@@ -11,7 +11,7 @@ for x in sequencia:
         break
 
     else:
-        cont[x] = cont[x] + 1
+        cont[x] += + 1
 
 if not flag:
     print(f"A: {cont['A']}, C: {cont['C']}, G: {cont['G']}, T: {cont['T']}")

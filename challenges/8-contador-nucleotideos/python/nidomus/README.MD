@@ -12,7 +12,7 @@
 
 **Dificuldade de Resolução:** - Média
 
-**Comentários:** Um bom desafio. Utilizei um dicionário novamente para organizar os contadores de cada valor.
+**Comentários:** Gostei desse desafio, foi interessante pensar na solução. Novamente, usei um dicionário para organizar os contadores de cada valor. Ao percorrer o input, comparava cada letra com uma das chaves do dicionário e adicionava no devido contador. Utilizei uma flag para identificar uma entrada inválida.
 
 **Como rodar o desafio**: 
 
